@@ -24,5 +24,5 @@ And use checks recommended by others.
 ## Script and Data
 
 * [Data](data/ip_metadata.csv)
-* [Script](script/mturk.ipynb)
+* [Script](scripts/mturk.ipynb)
 
