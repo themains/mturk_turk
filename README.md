@@ -12,7 +12,7 @@ To answer the questions, I leveraged [know your IP](https://github.com/themains/
 
 Of the 2,000 responses, Qualtrics could only get IPs for 1991. (I consider rest of 9 suspicious.) Of the 1991, 1886 are in the US. Of the 105 outside the US, 42 are from Venezuela and 17 from India. My sense is that these 105 respondents created MTurk accounts using US data---they have US credit cards or were once in the US---but are actually residents of another country. 
 
-More shockingly, of the 1991 respondents, 321 are from blacklisted IPs. In all, there are 370 respondents who are either outside the US or have blacklisted IPs. And 9 whose IPs couldn't be recorded. In all, about 18.95% of the responses can't be trusted.
+More shockingly, of the 1991 respondents, 321 are from blacklisted IPs. In all, there are 370 respondents who are either outside the US or have blacklisted IPs. Add to this 9 whose IPs couldn't be recorded and 67 duplicate IPs. In all, about 19.3% of the responses can't be trusted.
 
 Suggestions for collecting and analyzing data from M-Turk surveys: 
 
