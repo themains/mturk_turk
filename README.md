@@ -26,3 +26,7 @@ And use checks recommended by others.
 * [Data](data/ip_metadata.csv)
 * [Script](scripts/mturk.ipynb)
 
+## Paper
+
+For paper that exploits additional data, see [here (pdf)](http://www.gsood.com/research/papers/turk.pdf).
+
